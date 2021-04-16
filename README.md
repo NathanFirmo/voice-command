@@ -2,6 +2,8 @@
 
 - See in [English 🇬🇧](./README-en-US.md).
 
+![Capturar4](https://user-images.githubusercontent.com/79997705/115067227-fd944d00-9ec6-11eb-877f-e2678627c54f.PNG)
+
 Esse é um projeto de iluminação inteligente com Arduino.
 
 ## Componentes do projeto
@@ -19,6 +21,7 @@ Esse é um projeto de iluminação inteligente com Arduino.
 - Resistor LDR;
 
 ## Esquemático do Projeto
+![Capturar3](https://user-images.githubusercontent.com/79997705/115067241-008f3d80-9ec7-11eb-8692-587b194c557e.PNG)
 
 ## Como utilizar?
 
