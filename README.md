@@ -4,7 +4,7 @@
 
 ![Capturar4](https://user-images.githubusercontent.com/79997705/115067227-fd944d00-9ec6-11eb-877f-e2678627c54f.PNG)
 
-Esse é um projeto de iluminação inteligente com Arduino.
+Esse é um projeto de comando por voz com Arduino.
 
 ## Componentes do projeto
 
