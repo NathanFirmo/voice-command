@@ -20,6 +20,11 @@ Esse é um projeto de iluminação inteligente com Arduino.
 - Resistores 1kΩ;
 - Resistor LDR;
 
+ ## Linguagens da aplicação
+  
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ## Esquemático do Projeto
 ![Capturar3](https://user-images.githubusercontent.com/79997705/115067241-008f3d80-9ec7-11eb-8692-587b194c557e.PNG)
 
