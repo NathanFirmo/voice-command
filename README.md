@@ -1,9 +1,10 @@
  # **Comando por voz**
 
 - See in [English 🇬🇧](./README-en-US.md).
-
-![Capturar4](https://user-images.githubusercontent.com/79997705/115067227-fd944d00-9ec6-11eb-877f-e2678627c54f.PNG)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79997705/115067227-fd944d00-9ec6-11eb-877f-e2678627c54f.PNG"/>
+</div>
+</br>
 Esse é um projeto de comando por voz com Arduino.
 
 ## Componentes do projeto
