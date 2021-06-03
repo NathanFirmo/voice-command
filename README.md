@@ -36,7 +36,7 @@ Na hora de falar o comando a ser gravado o ideal é falar normalmente e de manei
 
 Ao final de uma nova gravação é necessário dar um click no botão branco para que os comandos sejam carregados. Quando os comandos estão carregados o led amarelo do módulo fica piscando, indicando que a placa já está captando o que o usuário fala. Se a placa reconhecer algum comando, o trecho de código referente a ele é executado no arduíno.
 
-   
+> Status do Projeto: Concluido :heavy_check_mark:
 ***
  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
  
